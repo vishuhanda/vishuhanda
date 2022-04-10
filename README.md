@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## An QA Automation and Manual test Engineer working on different technologies like Java, Python 
+### An QA Automation and Manual test Engineer working on different technologies like Java, Python 
 #### Tech stack working on 
 #### 1. Java , TestNG, Cucumber BDD
 #### 2. Python, Pytest-BDD , Behave 
